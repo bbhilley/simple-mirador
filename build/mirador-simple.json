@@ -1,6 +1,6 @@
 	{
 	"catalog": [
-		{"manifestId": "https://media.ng-london.org.uk/iiif/001-0145-0000/manifest.json"},
+		{"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26477/manifest"},
 		{"manifestId": "https://media.nga.gov/public/manifests/nga_highlights.json"}
 		]
 	}
