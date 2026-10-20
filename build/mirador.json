@@ -2,7 +2,10 @@
 	"catalog": [
 		{ "manifestID": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26666/manifest" }, 
 		{ "manifestID": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23594/manifest" },
-		{ "manifestID": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25775/manifest" }
+		{ "manifestID": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25775/manifest" },
+		{ "manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25704/manifest"  },
+		{ "manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26217/manifest"  },
+		{ "manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23435/manifest"  }
 	],
 	"windows": [{
 			"manifestId": "https://media.nga.gov/public/manifests/nga_highlights.json",
