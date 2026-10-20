@@ -1,4 +1,2 @@
 https://manifests.collections.yale.edu/ycba/obj/34
-https://iiif.harvardartmuseums.org/manifests/object/299843
-https://media.nga.gov/public/manifests/nga_highlights.json
-https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26477/manifest
+https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26666/manifest
