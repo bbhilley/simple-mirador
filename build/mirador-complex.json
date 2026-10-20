@@ -1,26 +1,26 @@
 	{
 	"catalog": [
-		{"manifestID":"https://data.getty.edu/museum/api/iiif/865/manifest.json"},
-		{"manifestID":"https://data.getty.edu/museum/api/iiif/248/manifest.json"},
-		{"manifestID":"https://media.nga.gov/public/manifests/nga_highlights.json"},
-		{"manifestID":"https://iiif.harvardartmuseums.org/manifests/object/299964"},
-		{"manifestID":"https://collections.frick.org/apis/iiif/presentation/v2/objects-266/manifest"},
-		{"manifestID":"https://media.ng-london.org.uk/iiif/001-043H-0000/manifest.json"}
+		{"manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26666/manifest"},
+		{"manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23594/manifest"},
+		{"manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25775/manifest"},
+		{"manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25704/manifest"},
+		{"manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26217/manifest"},
+		{"manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23435/manifest"}
 		],
 	"windows": [
 		{ "id": "a",
-			"manifestId": "https://data.getty.edu/museum/api/iiif/865/manifest.json" },
+			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26666/manifest" },
 		{ "id": "b",
-			"manifestId": "https://data.getty.edu/museum/api/iiif/248/manifest.json" },
+			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23594/manifest" },
 		{ "id": "c",
-			"manifestId": "https://media.nga.gov/public/manifests/nga_highlights.json",
+			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25775/manifest",
 			"canvasId":"https://media.nga.gov/public/manifests/canvas/1225.json"},
 		{ "id": "d",
-			"manifestId": "https://iiif.harvardartmuseums.org/manifests/object/299964" },
+			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25704/manifest" },
 		{ "id": "e",
-			"manifestId": "https://collections.frick.org/apis/iiif/presentation/v2/objects-266/manifest" },
+			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26217/manifest" },
 		{ "id": "f",
-			"manifestId": "https://media.ng-london.org.uk/iiif/001-043H-0000/manifest.json",
+			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23435/manifest",
 			"canvasId":"https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01XE-0000/normal.json"}
 		],
   "workspace": {
