@@ -1,2 +1,1 @@
-https://manifests.collections.yale.edu/ycba/obj/34
 https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26666/manifest
