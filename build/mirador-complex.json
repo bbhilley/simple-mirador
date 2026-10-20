@@ -13,15 +13,13 @@
 		{ "id": "b",
 			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23594/manifest" },
 		{ "id": "c",
-			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25775/manifest",
-			"canvasId":"https://media.nga.gov/public/manifests/canvas/1225.json"},
+			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25775/manifest" },
 		{ "id": "d",
 			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25704/manifest" },
 		{ "id": "e",
 			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26217/manifest" },
 		{ "id": "f",
-			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23435/manifest",
-			"canvasId":"https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01XE-0000/normal.json"}
+			"manifestId": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23435/manifest" }
 		],
   "workspace": {
     "layout": {
