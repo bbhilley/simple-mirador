@@ -1,7 +1,8 @@
 {
 	"catalog": [
-		{ "manifestID": "https://iiif.harvardartmuseums.org/manifests/object/299843" }, 
-		{ "manifestID": "https://media.nga.gov/public/manifests/nga_highlights.json" }		
+		{ "manifestID": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26666/manifest" }, 
+		{ "manifestID": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23594/manifest" },
+		{ "manifestID": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25775/manifest" }
 	],
 	"windows": [{
 			"manifestId": "https://media.nga.gov/public/manifests/nga_highlights.json",
