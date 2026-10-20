@@ -188,38 +188,17 @@ https://media.nga.gov/public/manifests/nga_highlights.json
 		<figcaption class="figure-caption">The complete JSON object used to define this content and layout of this page.</figcaption>
 	</figure>		<h3>Extra extension file</h3>
 	<figure>
-		<pre class="json-renderer" style="overflow-y: auto;overflow-x: auto; border: 2px solid black;padding: 10px;max-height:400px;"><code>{
-    &quot;catalog&quot;: [
-        {
-            &quot;manifestID&quot;: &quot;https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26666/manifest&quot;
-        },
-        {
-            &quot;manifestID&quot;: &quot;https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23594/manifest&quot;
-        },
-        {
-            &quot;manifestID&quot;: &quot;https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25775/manifest&quot;
-        },
-        {
-            &quot;manifestID&quot;: &quot;https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25704/manifest&quot;
-        },
-        {
-            &quot;manifestID&quot;: &quot;https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26217/manifest&quot;
-        },
-        {
-            &quot;manifestID&quot;: &quot;https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23435/manifest&quot;
-        }
-    ],
-    &quot;windows&quot;: [
-        {
-            &quot;manifestId&quot;: &quot;https://media.nga.gov/public/manifests/nga_highlights.json&quot;,
-            &quot;canvasIndex&quot;: 0
-        },
-        {
-            &quot;manifestId&quot;: &quot;https://iiif.harvardartmuseums.org/manifests/object/299843&quot;,
-            &quot;canvasIndex&quot;: 4
-        }
-    ]
-}</code></pre>
+		<pre class="" style="overflow-y: auto;overflow-x: auto; border: 2px solid black;padding: 10px;max-height:400px;"><code>{
+"catalog": [
+{ "manifestID": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26666/manifest" },
+{ "manifestID": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23594/manifest" },
+{ "manifestID": "https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25775/manifest" },
+{ "manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-25704/manifest"  },
+{ "manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-26217/manifest"  },
+{ "manifestID":"https://emuseum.nasher.duke.edu/apis/iiif/presentation/v2/1-objects-23435/manifest"  }
+],
+}
+</code></pre>
 		<figcaption class="figure-caption">The complete extension file used to define extra content included in this page.</figcaption>
 	</figure>	
 	</details>
@@ -255,9 +234,9 @@ https://media.nga.gov/public/manifests/nga_highlights.json
 
 var myMiradorInstance = Mirador.viewer({
        id: "mirador",
-       windows: [{"manifestId":"https:\/\/media.nga.gov\/public\/manifests\/nga_highlights.json","canvasIndex":0},{"manifestId":"https:\/\/iiif.harvardartmuseums.org\/manifests\/object\/299843","canvasIndex":4}],
+       windows: ,
        manifests: [],
-       "catalog": [{"manifestID":"https:\/\/emuseum.nasher.duke.edu\/apis\/iiif\/presentation\/v2\/1-objects-26666\/manifest"},{"manifestID":"https:\/\/emuseum.nasher.duke.edu\/apis\/iiif\/presentation\/v2\/1-objects-23594\/manifest"},{"manifestID":"https:\/\/emuseum.nasher.duke.edu\/apis\/iiif\/presentation\/v2\/1-objects-25775\/manifest"},{"manifestID":"https:\/\/emuseum.nasher.duke.edu\/apis\/iiif\/presentation\/v2\/1-objects-25704\/manifest"},{"manifestID":"https:\/\/emuseum.nasher.duke.edu\/apis\/iiif\/presentation\/v2\/1-objects-26217\/manifest"},{"manifestID":"https:\/\/emuseum.nasher.duke.edu\/apis\/iiif\/presentation\/v2\/1-objects-23435\/manifest"}],
+       
        
        });     
      });
